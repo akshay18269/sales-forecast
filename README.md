@@ -1,4 +1,4 @@
-📈 Sales Forecasting Using Time Series & Machine Learning
+Sales Forecasting Using Time Series & Machine Learning
 Project Overview
 This project focuses on forecasting future sales using historical time-series data. The aim is to understand temporal patterns such as trend and seasonality, establish a baseline model, and improve predictions using advanced machine learning techniques.
 
